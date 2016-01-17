@@ -40,16 +40,16 @@
   <ion-view>
     <ion-tabs class="tabs-icon-top tabs-positive">
 
-      <ion-tab title="Feed" icon-on="ion-ios-paper" icon-off="ion-ios-paper-outline" href="#/tab/home">
+      <ion-tab title="Recent" icon-on="ion-ios-paper" icon-off="ion-ios-paper-outline" ui-sref="#/tab/home">
         <ion-nav-view name="home-tab"></ion-nav-view>
       </ion-tab>
 
-      <ion-tab title="Best" icon-on="ion-happy" icon-off="ion-happy-outline" href="#/tab/facts">
-        <ion-nav-view name="about-tab"></ion-nav-view>
+      <ion-tab title="Best" icon-on="ion-happy" icon-off="ion-happy-outline" ui-sref="#/tab/facts">
+        <ion-nav-view name="facts-tab"></ion-nav-view>
       </ion-tab>
 
-      <ion-tab title="Worst" icon-on="ion-sad" icon-off="ion-sad-outline" href="#/tab/facts2">
-        <ion-nav-view name="worst-tab"></ion-nav-view>
+      <ion-tab title="Worst" icon-on="ion-sad" icon-off="ion-sad-outline" ui-sref="#/tab/facts2">
+        <ion-nav-view name="facts2-tab"></ion-nav-view>
       </ion-tab>
 
       <ion-tab title="Back" icon="ion-log-out" href="#/sign-in">
@@ -60,11 +60,9 @@
 </script>
 
 <script id="templates/home.html" type="text/ng-template">
-  <ion-view view-title="Current Feed" hide-back-button="true">
-
-    <ion-content overflow-scroll="true" padding="true" class="has-header">
-      <ion-refresher on-refresh="load()" pulling-text="Pull to Refresh"></ion-refresher>
-      <ion-list ng-controller="MyCtrl">
+  <ion-view view-title="Recent" hide-back-button="true">
+    <ion-content>
+      <ion-list>
         <a ng-repeat="item in items"
            href="#/{{item.id}}"
            class="item item-thumbnail-left">
@@ -85,7 +83,20 @@
 <script id="templates/facts.html" type="text/ng-template">
   <ion-view view-title="Best Items" hide-back-button="true">
     <ion-content>
+      <ion-list>
+        <a ng-repeat="item in items"
+           href="#/{{item.id}}"
+           class="item item-thumbnail-left">
 
+          <img ng-src="{{ item.image }}">
+          <h2>{{ item.Food }}
+          </h2>
+          <h4>{{item.Rating}}
+          </h4>
+          <h4>{{item.Review}}
+          </h4>
+        </a>
+      </ion-list>
     </ion-content>
   </ion-view>
 </script>
@@ -93,17 +104,19 @@
 <script id="templates/facts2.html" type="text/ng-template">
   <ion-view view-title="Worst Items" hide-back-button="true">
     <ion-content>
-      <ion-list show-reorder="state.reordering">
-        <ion-item class="item-toggle" ng-repeat="currency in currencies">
-          {{currency.code}} - {{currency.text}}
-          <label class="toggle toggle-balanced">
-            <input type="checkbox" ng-model="currency.selected">
-            <div class="track">
-              <div class="handle"></div>
-            </div>
-          </label>
-          <ion-reorder-button class="ion-navicon" on-reorder="move(currency, $fromIndex, $toIndex)"></ion-reorder-button>
-        </ion-item>
+      <ion-list>
+        <a ng-repeat="item in items"
+           href="#/{{item.id}}"
+           class="item item-thumbnail-left">
+
+          <img ng-src="{{ item.image }}">
+          <h2>{{ item.Food }}
+          </h2>
+          <h4>{{item.Rating}}
+          </h4>
+          <h4>{{item.Review}}
+          </h4>
+        </a>
       </ion-list>
     </ion-content>
   </ion-view>

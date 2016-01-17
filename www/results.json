@@ -1,0 +1,1862 @@
+{
+  "Watami Sushi & Sake Bar": {
+    "City": "Waterloo",
+    "Name": "Watami Sushi & Sake Bar",
+    "Top": [
+      "salmon sashimi",
+      "spicy tuna",
+      "avocado salad",
+      "wasabi ginger",
+      "ayce sushi"
+    ],
+    "Worst": [
+      "sushi buffet",
+      "sushi rice",
+      "sushi experiences",
+      "dragon rolls",
+      "watami sushi"
+    ],
+    "ID": "EhBSVPbSw1pKE0gg4u2Kqg",
+    "Recent": [
+      "salmon sashimi",
+      "udon noodle soup",
+      "sushi buffet",
+      "sushi restaurants",
+      "ayce sushi",
+      "ayce sushi leaves",
+      "sweet teriyaki sauce",
+      "spicy tuna",
+      "average sushi restaurant",
+      "dragon rolls"
+    ]
+  },
+  "Lo-Lo's Chicken & Waffles": {
+    "City": "Phoenix",
+    "Name": "Lo-Lo's Chicken & Waffles",
+    "Top": [
+      "sweet tea",
+      "collard greens",
+      "red velvet cake",
+      "corn bread",
+      "hot sauce"
+    ],
+    "Worst": [
+      "good cajun restaurant",
+      "waffles w syrup",
+      "tasty chicken",
+      "pineapple juice",
+      "georgia peach cocktail"
+    ],
+    "ID": "K8pM6qQdYu5h6buRE1-_sw",
+    "Recent": [
+      "green beans",
+      "signature chicken sandwich",
+      "corn bread muffin",
+      "georgia peach cocktail",
+      "ham omelette",
+      "waffle sandwich",
+      "succulent chicken",
+      "giant eggo waffle",
+      "green tomatoes",
+      "melon margarita"
+    ]
+  },
+  "The Old Fashioned": {
+    "City": "Madison",
+    "Name": "The Old Fashioned",
+    "Top": [
+      "cheese curds",
+      "beer cheese soup",
+      "fish fry",
+      "beer selection",
+      "garlic sauce"
+    ],
+    "Worst": [
+      "fennel bisque",
+      "cheese noodles",
+      "cheese curd guy",
+      "specialty salads",
+      "egg yolks"
+    ],
+    "ID": "FHqwLwpLjUjeLP-IdG_o_w",
+    "Recent": [
+      "cheese curds",
+      "garlic sauce",
+      "butter milk ranch",
+      "french fries",
+      "chili cheese dog",
+      "egg yolks",
+      "chilli cheese dog",
+      "good cheese curds",
+      "egg yolk",
+      "tipsy cow"
+    ]
+  },
+  "Bhima's Warung": {
+    "City": "Waterloo",
+    "Name": "Bhima's Warung",
+    "Top": [
+      "good restaurant",
+      "beef tenderloin slivers",
+      "ahi tuna",
+      "spicy sauce",
+      "duck pate"
+    ],
+    "Worst": [
+      "ahi tuna",
+      "spicy sauce",
+      "duck pate",
+      "hoisin ribs",
+      "angus steak"
+    ],
+    "ID": "0jSLF-sYd23ZUAvXwqHDPg",
+    "Recent": [
+      "beef tenderloin slivers",
+      "succulent poultry",
+      "red curry sauce",
+      "tasty seafood",
+      "creme brulee",
+      "plum sauce",
+      "good restaurant",
+      "favorite restaurant",
+      "delicious meal",
+      "tasty sauces"
+    ]
+  },
+  "Lux": {
+    "City": "Phoenix",
+    "Name": "Lux",
+    "Top": [
+      "coffee shop",
+      "great coffee",
+      "good coffee",
+      "coffee drinks",
+      "favorite coffee shop"
+    ],
+    "Worst": [
+      "coffee taste",
+      "favorite coffee joint",
+      "vanilla latte deserve",
+      "amazing coffee cake",
+      "whole milk latte"
+    ],
+    "ID": "aRkYtXfmEKYG-eTDf_qUsw",
+    "Recent": [
+      "pumpkin whoopie pies",
+      "good coffee",
+      "belgian pancake",
+      "homemade scones",
+      "veggie omelet",
+      "personal fave drink",
+      "favorite breakfast",
+      "chai latte",
+      "orange juice",
+      "copperstar coffee"
+    ]
+  },
+  "Primanti Bros": {
+    "City": "Pittsburgh",
+    "Name": "Primanti Bros",
+    "Top": [
+      "french fries",
+      "cole slaw",
+      "cheese steak",
+      "roast beef",
+      "pastrami sandwich"
+    ],
+    "Worst": [
+      "tuna fish",
+      "spicy sausage",
+      "fries w chili",
+      "pretty sweet",
+      "huge tasty sandwich"
+    ],
+    "ID": "NeUf9FyCCIN4MEseNyqkXQ",
+    "Recent": [
+      "french fries",
+      "cole slaw",
+      "cajun chicken sandwich",
+      "pepper soda",
+      "malt vinegar",
+      "angus sandwich",
+      "ginger ale",
+      "potatoey fries",
+      "sandwich laden",
+      "special slaw"
+    ]
+  },
+  "Mon Ami Gabi": {
+    "City": "Las Vegas",
+    "Name": "Mon Ami Gabi",
+    "Top": [
+      "french onion soup",
+      "filet mignon",
+      "steak frites",
+      "eggs benedict",
+      "onion soup"
+    ],
+    "Worst": [
+      "complimentary gluten",
+      "oysters appetizer",
+      "order breakfast potatoes",
+      "frozen drinks",
+      "breakfast item"
+    ],
+    "ID": "4bEjOyTaDG24SY5TxsaUNQ",
+    "Recent": [
+      "eggs benedict",
+      "goat cheese appetizer",
+      "crunchy garlic bread",
+      "french onion soup",
+      "warm bacon salad",
+      "garlic bread",
+      "eggs florentine",
+      "delicious gruyere cheese",
+      "vegetable tagine",
+      "brie sandwich"
+    ]
+  },
+  "Kaya": {
+    "City": "Pittsburgh",
+    "Name": "Kaya",
+    "Top": [
+      "fish tacos",
+      "sweet potato fries",
+      "black bean dip",
+      "cilantro cream sauce",
+      "crispy fish tacos"
+    ],
+    "Worst": [
+      "onion dip",
+      "drink specials",
+      "chicken entree",
+      "couple drinks",
+      "pineapple juice"
+    ],
+    "ID": "cjD2yGRhT5yaSj_KP55Ptw",
+    "Recent": [
+      "black bean dip",
+      "sweet potato fries",
+      "fish tacos",
+      "conch fritters",
+      "pisco sour",
+      "avocado tempura tacos",
+      "cardamom ice cream",
+      "avocado tacos",
+      "corn chowder warms",
+      "salmon salad"
+    ]
+  },
+  "Hash House A Go Go": {
+    "City": "Las Vegas",
+    "Name": "Hash House A Go Go",
+    "Top": [
+      "hash house",
+      "chicken benedict",
+      "sage chicken",
+      "andy 's sage",
+      "beef hash"
+    ],
+    "Worst": [
+      "actual bacon strips",
+      "potatoes meal",
+      "delicious horse radish",
+      "heavy breakfast",
+      "original hh benedict"
+    ],
+    "ID": "xfwRO04KbAPw_zRotCfWQQ",
+    "Recent": [
+      "kiwi watermelon lemonade",
+      "chicken n waffles",
+      "sage chicken",
+      "breakfast crab cakes",
+      "pork tenderloin sand",
+      "watermelon kiwi lemonade",
+      "scramble eggs",
+      "cold salmon",
+      "hollandaise sauce",
+      "pork loin"
+    ]
+  },
+  "Serendipity 3": {
+    "City": "Las Vegas",
+    "Name": "Serendipity 3",
+    "Top": [
+      "hot chocolate",
+      "sweet potato fries",
+      "ice cream",
+      "oreo sundae",
+      "steak sandwich"
+    ],
+    "Worst": [
+      "huge cheese cakes",
+      "bit sweet",
+      "marshmallow mint explosion",
+      "insufficient bbq sauce",
+      "standard burger toppings"
+    ],
+    "ID": "Xhg93cMdemu5pAMkDoEdtQ",
+    "Recent": [
+      "hot chocolate",
+      "portobello mushroom burger",
+      "mint chocolate fans",
+      "beef patty medium",
+      "wagyu benedict",
+      "cookie dough",
+      "mint frozen",
+      "caramel sauce",
+      "meat madness pizza",
+      "steak sandwich"
+    ]
+  },
+  "Eleven": {
+    "City": "Pittsburgh",
+    "Name": "Eleven",
+    "Top": [
+      "crab cake",
+      "goat cheese",
+      "pork chop",
+      "banana cream pie",
+      "beet salad"
+    ],
+    "Worst": [
+      "macadamia nuts",
+      "sausage cake",
+      "great restaurant",
+      "crab cake snob",
+      "grape juice"
+    ],
+    "ID": "C4GHQTB-G0R2Geov298GLw",
+    "Recent": [
+      "banana creme pie",
+      "creme fraiche brulee",
+      "foie gras butter",
+      "favorite restaurants",
+      "breakfast cocktail",
+      "white truffle tagliatelle",
+      "veal burger",
+      "great meal",
+      "cous cous",
+      "steak tartare"
+    ]
+  },
+  "Mert's Heart & Soul": {
+    "City": "Charlotte",
+    "Name": "Mert's Heart & Soul",
+    "Top": [
+      "collard greens",
+      "corn bread",
+      "salmon cakes",
+      "beef ribs",
+      "sweet tea"
+    ],
+    "Worst": [
+      "seafood omelette",
+      "cream ale",
+      "corn breads",
+      "nice spicy aioli",
+      "chocolate cake"
+    ],
+    "ID": "mpDxBBGywUE6GRRKja3sBA",
+    "Recent": [
+      "honey butter",
+      "banana cake",
+      "bbq pork ribs",
+      "egg rolls",
+      "sweet butter",
+      "chicken thigh",
+      "coconut cake",
+      "potato salad",
+      "sweet tea",
+      "vinaigrette type sauce"
+    ]
+  },
+  "The Buffet at Bellagio": {
+    "City": "Las Vegas",
+    "Name": "The Buffet at Bellagio",
+    "Top": [
+      "prime rib",
+      "crab legs",
+      "bellagio buffet",
+      "creme brulee",
+      "beef wellington"
+    ],
+    "Worst": [
+      "sushi quality",
+      "champagne wine",
+      "meat dish",
+      "hot fish",
+      "buffet sushi quality"
+    ],
+    "ID": "CZjcFdvJhksq9dy58NVEzw",
+    "Recent": [
+      "prime rib",
+      "crab legs",
+      "salmon fillet",
+      "prime rib dinner",
+      "peach sorbet",
+      "tuna nigiri",
+      "ice creams",
+      "breakfast items",
+      "tastiest meals",
+      "california rolls"
+    ]
+  },
+  "The Buffet": {
+    "City": "Las Vegas",
+    "Name": "The Buffet",
+    "Top": [
+      "prime rib",
+      "crab legs",
+      "creme brulee",
+      "wynn buffet",
+      "ice cream"
+    ],
+    "Worst": [
+      "real sushi",
+      "fresh sugar crusts",
+      "wheat flour",
+      "tiny chocolate cupcakes",
+      "usual buffet"
+    ],
+    "ID": "YNQgak-ZLtYJQxlDwN-qIg",
+    "Recent": [
+      "raspberry cheese cake",
+      "rice crispy lollipop",
+      "veg pizza",
+      "shrimp sushi",
+      "mushroom soup",
+      "couscous salad",
+      "lobster quiche",
+      "oreo cake",
+      "quinoa salad",
+      "wynn buffet"
+    ]
+  },
+  "Point Brugge Caf\u00e9": {
+    "City": "Pittsburgh",
+    "Name": "Point Brugge Caf\u00e9",
+    "Top": [
+      "crab cakes",
+      "red curry sauce",
+      "moules frites",
+      "eggs benedict",
+      "white wine sauce"
+    ],
+    "Worst": [
+      "belgian moules",
+      "favorite pittsburgh restaurant",
+      "delicious basil mayo",
+      "special curry sauce",
+      "large moules frites"
+    ],
+    "ID": "8zdeaK3PWDsr5Kq4UOuNSw",
+    "Recent": [
+      "butternut squash gnocchi",
+      "rice bread filling",
+      "vanilla ice cream",
+      "chicken salad sandwich",
+      "steak frites",
+      "banana peppers",
+      "great beer selection",
+      "homemade frites",
+      "craft beers",
+      "oakmont bakery"
+    ]
+  },
+  "The Cowfish Sushi Burger Bar": {
+    "City": "Charlotte",
+    "Name": "The Cowfish Sushi Burger Bar",
+    "Top": [
+      "sweet potato fries",
+      "crab rangoon dip",
+      "ahi tuna nachos",
+      "sushi rolls",
+      "cucumber salad"
+    ],
+    "Worst": [
+      "real sushi",
+      "great restaurant",
+      "actual sushi rolls",
+      "fish sushi eater",
+      "beef entrees"
+    ],
+    "ID": "n_ZuPiXgB4YPbkuSINpabQ",
+    "Recent": [
+      "crab rangoon",
+      "ahi tuna nachos",
+      "yellowtail scallion",
+      "vanilla mousse",
+      "crab rangoon dip",
+      "jalapeno popper burger",
+      "crab spring rolls",
+      "truffle fries",
+      "roll sashimi combo",
+      "spicy mayo"
+    ]
+  },
+  "Pinky's Westside Grill": {
+    "City": "Charlotte",
+    "Name": "Pinky's Westside Grill",
+    "Top": [
+      "waffle fries",
+      "white trash burger",
+      "sweet potato fries",
+      "pimento cheese",
+      "pimento cheese fries"
+    ],
+    "Worst": [
+      "burger places",
+      "tahini salads",
+      "french fry barometer",
+      "bean burger",
+      "pineapple juice"
+    ],
+    "ID": "cXtL3_ksBsr6uZy0fp-TDg",
+    "Recent": [
+      "pimento cheese",
+      "lettuce wrap",
+      "sweet potato fries",
+      "drink specials",
+      "veggie chili",
+      "crab meat",
+      "fries pickles",
+      "crab puppies",
+      "turkey burger",
+      "fish tacos"
+    ]
+  },
+  "Fat Heads Saloon": {
+    "City": "Pittsburgh",
+    "Name": "Fat Heads Saloon",
+    "Top": [
+      "homemade potato chips",
+      "beer selection",
+      "potato chips",
+      "fat heads",
+      "homemade chips"
+    ],
+    "Worst": [
+      "various chicken wings",
+      "great horseradish sauce",
+      "steak salads",
+      "marinara sauce",
+      "bacon cheeseburger"
+    ],
+    "ID": "-vVQyTVHitF6TOHGijVXxQ",
+    "Recent": [
+      "hot pepper kraut",
+      "favorite sandwich restaurant",
+      "fat heads",
+      "homemade potato chips",
+      "turkey wrap",
+      "giant sandwich",
+      "parm mayo",
+      "favorite sandwiches",
+      "french fries",
+      "craft beers"
+    ]
+  },
+  "Pizzeria Bianco": {
+    "City": "Phoenix",
+    "Name": "Pizzeria Bianco",
+    "Top": [
+      "tomato sauce",
+      "fennel sausage",
+      "olive oil",
+      "good pizza",
+      "caprese salad"
+    ],
+    "Worst": [
+      "crab bisque",
+      "order appetizers drinks",
+      "pizza bread",
+      "biancoverde pizzas",
+      "antipasti plate"
+    ],
+    "ID": "VVeogjZya58oiTxK7qUjAQ",
+    "Recent": [
+      "tomato sauce",
+      "fennel sausage",
+      "fresh mozzarella",
+      "pizza hits",
+      "pizza places",
+      "ricotta cheese",
+      "cheese platter",
+      "thin crust",
+      "chocolate cake",
+      "vanilla gelato"
+    ]
+  },
+  "Monty's Blue Plate Diner": {
+    "City": "Madison",
+    "Name": "Monty's Blue Plate Diner",
+    "Top": [
+      "sweet potato hash",
+      "waffle fries",
+      "beef hash",
+      "bean salad",
+      "ice cream"
+    ],
+    "Worst": [
+      "great filling meal",
+      "absolute favorite restaurant",
+      "bean burger",
+      "veggie restaurant",
+      "cream pies"
+    ],
+    "ID": "fjaQ3Ixkofh8xGhklUtDnA",
+    "Recent": [
+      "sweet potato hash",
+      "fantastic curry sauce",
+      "ice cream",
+      "meat loaf stack",
+      "sugar cookie",
+      "apple pie",
+      "awesome bean salad",
+      "oreo cruble crust",
+      "seasonal specialty drinks",
+      "orange cream"
+    ]
+  },
+  "Ben Thanh": {
+    "City": "Waterloo",
+    "Name": "Ben Thanh",
+    "Top": [
+      "bean sprouts",
+      "lemon grass chicken",
+      "pork meat balls",
+      "red curry chicken",
+      "basil leaves"
+    ],
+    "Worst": [
+      "soup noodle",
+      "peanut sauce",
+      "nice shrimp rolls",
+      "special pho",
+      "large pho soup"
+    ],
+    "ID": "U7PiSfu-xOvNVRXKqNOgAA",
+    "Recent": [
+      "lemon grass chicken",
+      "red curry chicken",
+      "bean sprouts",
+      "favorite cheese wontons",
+      "beef noodle soup",
+      "colour bean drink",
+      "beef pork spring",
+      "daikon radish",
+      "soup noodle",
+      "large pho soup"
+    ]
+  },
+  "Taco Farm": {
+    "City": "Waterloo",
+    "Name": "Taco Farm",
+    "Top": [
+      "taco farm",
+      "chicken taco",
+      "beef taco",
+      "corn tortillas",
+      "fish taco"
+    ],
+    "Worst": [
+      "free chips",
+      "complementary chips",
+      "tortilla soup",
+      "tortilla chips",
+      "mushroom quesadilla"
+    ],
+    "ID": "iZ3mPsUct87y-yBGm_8CrQ",
+    "Recent": [
+      "taco farm",
+      "corn tortillas",
+      "taco toppings",
+      "amazing tequila honey",
+      "tortilla chips",
+      "complimentary nachos",
+      "hot sauce",
+      "tap beer",
+      "good tacos",
+      "new tequila"
+    ]
+  },
+  "Weary Traveler ": {
+    "City": "Madison",
+    "Name": "Weary Traveler ",
+    "Top": [
+      "bad breath burger",
+      "cream cheese",
+      "andes sandwich",
+      "carne asada",
+      "pork chop"
+    ],
+    "Worst": [
+      "seasonal drinks",
+      "sweet potatoes",
+      "calliope ice cream",
+      "incredible balsamic onion",
+      "cocktail specials"
+    ],
+    "ID": "N8Q2s-Snz2vL79zB3rEEug",
+    "Recent": [
+      "carne asada",
+      "bad breath burger",
+      "homemade pita bread",
+      "tres leches cake",
+      "pita bread",
+      "favorite burger",
+      "cream cheese",
+      "thai soups",
+      "tortilla chips",
+      "favorite cocktails"
+    ]
+  },
+  "Burrito Boyz": {
+    "City": "Waterloo",
+    "Name": "Burrito Boyz",
+    "Top": [
+      "hot sauce",
+      "burrito boyz",
+      "burrito sauce",
+      "veggie soy burritos",
+      "large chicken burrito"
+    ],
+    "Worst": [
+      "large chicken burrito",
+      "fish burritos",
+      "veggie soy",
+      "small beef burrito",
+      "small halibut burrito"
+    ],
+    "ID": "bk2YUek5KaMP8LjN5jZ8_w",
+    "Recent": [
+      "burrito boyz",
+      "hot sauce",
+      "veggie soy burritos",
+      "burrito sauce",
+      "large chicken burrito",
+      "fish burritos",
+      "small halibut burrito",
+      "veggie soy",
+      "sweet potato",
+      "amazing burritos"
+    ]
+  },
+  "Wicked Spoon": {
+    "City": "Las Vegas",
+    "Name": "Wicked Spoon",
+    "Top": [
+      "bone marrow",
+      "prime rib",
+      "crab legs",
+      "shrimp cocktail",
+      "eggs benedict"
+    ],
+    "Worst": [
+      "meat meat",
+      "curry tofu",
+      "good marinara sauce",
+      "smoke salmon olive",
+      "apricot cream"
+    ],
+    "ID": "zt1TpTuJ6y9n551sw9TaEg",
+    "Recent": [
+      "bone marrow",
+      "truffle mushroom risotto",
+      "beef ribs",
+      "shrimp ceviche",
+      "thai tea",
+      "prime rib",
+      "own crab legs",
+      "prime ribs",
+      "japanese noodles",
+      "buffet plate"
+    ]
+  },
+  "Midwood Smokehouse": {
+    "City": "Charlotte",
+    "Name": "Midwood Smokehouse",
+    "Top": [
+      "sweet potato fries",
+      "beef brisket",
+      "pimento cheese fries",
+      "pecan cobbler",
+      "collard greens"
+    ],
+    "Worst": [
+      "darn beef brisket",
+      "cake donut",
+      "friends pork sandwich",
+      "pork queso",
+      "drink refills"
+    ],
+    "ID": "lhsyRdDtRNjOJ41ferYagQ",
+    "Recent": [
+      "bone tender",
+      "pork sandwich",
+      "bbq sauce",
+      "craft beers",
+      "chicken i",
+      "good bbq",
+      "large beer selection",
+      "carolina bbq",
+      "combo platter",
+      "entire meal"
+    ]
+  },
+  "Cibo": {
+    "City": "Phoenix",
+    "Name": "Cibo",
+    "Top": [
+      "ice cream",
+      "tomato sauce",
+      "pear salad",
+      "vanilla ice cream",
+      "favorite pizza"
+    ],
+    "Worst": [
+      "veggie plate appetizer",
+      "perfect pizza",
+      "fruit salad witht",
+      "homemade crepes",
+      "sharp tomato sauce"
+    ],
+    "ID": "V1nEpIRmEa1768oj_tuxeQ",
+    "Recent": [
+      "ice cream",
+      "strawberry crepe",
+      "pesto salad",
+      "diabola pizza",
+      "sausage pie",
+      "pizza crust",
+      "chocolate drizzle",
+      "polenta fries",
+      "individual margarita pizza",
+      "banana crepe"
+    ]
+  },
+  "The Parlor": {
+    "City": "Phoenix",
+    "Name": "The Parlor",
+    "Top": [
+      "goat cheese",
+      "beet salad",
+      "pepperoni pizza",
+      "pesto pizza",
+      "chocolate cake"
+    ],
+    "Worst": [
+      "fava beans",
+      "own meat",
+      "good coffee",
+      "pork pasta",
+      "roast banana"
+    ],
+    "ID": "pwpl-rxwNRQdgqFz_-qMPg",
+    "Recent": [
+      "goat cheese",
+      "sausage pizza",
+      "cherry tomatoes",
+      "beet salad",
+      "artichoke hearts",
+      "corn pizza",
+      "tomato bisque",
+      "truffle oil",
+      "cheesy cauliflower",
+      "duck club sandwich"
+    ]
+  },
+  "Ha Long Bay Vietnamese & Thai Bistro": {
+    "City": "Madison",
+    "Name": "Ha Long Bay Vietnamese & Thai Bistro",
+    "Top": [
+      "squash curry",
+      "chicken dumplings",
+      "mango curry",
+      "spring rolls",
+      "shrimp spring rolls"
+    ],
+    "Worst": [
+      "great restaurant",
+      "sriracha sauce",
+      "shrimp pho",
+      "chicken spring rolls",
+      "favorite restaurants"
+    ],
+    "ID": "th4uGmjyjPnQpN-ukf20PA",
+    "Recent": [
+      "squash curry",
+      "curry puffs",
+      "spring rolls",
+      "coconut sticky rice",
+      "apple candy",
+      "thai eggplant",
+      "different thai restaurants",
+      "peanut sauce",
+      "chicken dumplings",
+      "ice cream"
+    ]
+  },
+  "St. Francis Restaurant": {
+    "City": "Phoenix",
+    "Name": "St. Francis Restaurant",
+    "Top": [
+      "goat cheese",
+      "french onion burger",
+      "goat cheese appetizer",
+      "pork chop",
+      "pork chile verde"
+    ],
+    "Worst": [
+      "pear dessert",
+      "flat bread pizzas",
+      "fresh bread",
+      "slice grapefruit",
+      "mj bread bun"
+    ],
+    "ID": "uKSX1n1RoAzGq4bV8GPHVg",
+    "Recent": [
+      "goat cheese appetizer",
+      "french onion burger",
+      "olive oil drizzle",
+      "apple crumb tart",
+      "cheese flatbread",
+      "order scallops b'c",
+      "skillet pancake",
+      "moroccan meatballs",
+      "sticky toffee dessert",
+      "eggs benedict"
+    ]
+  },
+  "Graze": {
+    "City": "Madison",
+    "Name": "Graze",
+    "Top": [
+      "cheese curds",
+      "pork buns",
+      "graze burger",
+      "beet salad",
+      "pub burger"
+    ],
+    "Worst": [
+      "spicy chili oil",
+      "tarragon vinaigrette",
+      "apple croissant",
+      "fancy cheese curd",
+      "breakfast pastries"
+    ],
+    "ID": "cmv6wUUe-H0xRiFEY0__iQ",
+    "Recent": [
+      "truffle popcorn",
+      "pork buns",
+      "tipsy cow",
+      "delicious cherry sauce",
+      "foie gras",
+      "great pork loin",
+      "english muffin",
+      "cheese curds",
+      "truffle oil",
+      "rice popcorn"
+    ]
+  },
+  "Mel's Diner": {
+    "City": "Waterloo",
+    "Name": "Mel's Diner",
+    "Top": [
+      "sweet potato fries",
+      "orange juice",
+      "breakfast specials",
+      "eggs benedict",
+      "day breakfast"
+    ],
+    "Worst": [
+      "egg 's benedict",
+      "leftover meat",
+      "beef soup",
+      "pancakes french",
+      "beef brisket"
+    ],
+    "ID": "M6aafMDJtR8folbqGgcepg",
+    "Recent": [
+      "sweet potato fries",
+      "beef soup",
+      "breakfast burger",
+      "beer selection",
+      "pancakes french",
+      "easy eggs",
+      "alcoholic beverages",
+      "sandwich dip",
+      "jerry lewis burger",
+      "reuben sandwich"
+    ]
+  },
+  "Meat & Potatoes": {
+    "City": "Pittsburgh",
+    "Name": "Meat & Potatoes",
+    "Top": [
+      "bone marrow",
+      "pork chop",
+      "short rib hash",
+      "chicken livers",
+      "brussel sprouts"
+    ],
+    "Worst": [
+      "shortrib hash",
+      "pineapple juice",
+      "pepper bacon",
+      "lemongrass moules",
+      "wagyu entree"
+    ],
+    "ID": "SsGNAc9U-aKPZccnaDtFkA",
+    "Recent": [
+      "chocolate mousse omg",
+      "pork chop",
+      "drink specials",
+      "chocolate desserts",
+      "white truffle risotto",
+      "duck pate",
+      "black truffle mayo",
+      "short rib hash",
+      "chicken livers",
+      "pickle chips"
+    ]
+  },
+  "Luna's Living Kitchen": {
+    "City": "Charlotte",
+    "Name": "Luna's Living Kitchen",
+    "Top": [
+      "veggie burger",
+      "rawco taco salad",
+      "ginger ale",
+      "brimstone veggie burger",
+      "hot sauce"
+    ],
+    "Worst": [
+      "spaghetti pasta",
+      "breakfast entree",
+      "nasturtium flower dish",
+      "fellow meat eaters",
+      "berries dessert"
+    ],
+    "ID": "UCzaZ2z6E-Xy8Vn-MLpIrw",
+    "Recent": [
+      "basil sandwich",
+      "chocolate raspberry cake",
+      "moroccan lentil soup",
+      "lentil soup",
+      "fresh fruits vegetables",
+      "almond butter",
+      "raw carrot cake",
+      "kale salad",
+      "veggie burger",
+      "cauliflower rice"
+    ]
+  },
+  "Symposium Cafe": {
+    "City": "Waterloo",
+    "Name": "Symposium Cafe",
+    "Top": [
+      "sweet potato fries",
+      "desserts fruit milkshakes",
+      "salmon greek salad",
+      "turkey bacon wrap",
+      "swiss mushroom burger"
+    ],
+    "Worst": [
+      "fruit festival waffle",
+      "eggs benedict",
+      "english breakfast tea",
+      "appetizer specials",
+      "belgian waffles"
+    ],
+    "ID": "y0pmoFzlKOhozDmJPQYNcA",
+    "Recent": [
+      "sweet potato fries",
+      "desserts fruit milkshakes",
+      "salmon greek salad",
+      "turkey bacon wrap",
+      "swiss mushroom burger",
+      "fruit festival waffle",
+      "chicken tenders i",
+      "mango mousse",
+      "pork sandwich",
+      "vodka sauce"
+    ]
+  },
+  "Sardine": {
+    "City": "Madison",
+    "Name": "Sardine",
+    "Top": [
+      "sardine burger",
+      "favorite restaurants",
+      "goat cheese",
+      "creme brulee",
+      "cherry tomatoes"
+    ],
+    "Worst": [
+      "charcuterie plate appetizer",
+      "lobster rolls",
+      "fennel ravioli",
+      "gravy sauce",
+      "bacon lardons"
+    ],
+    "ID": "rXEGCpdboVwczMIDZuXXaA",
+    "Recent": [
+      "sardine burger",
+      "sweet pickle garnish",
+      "hazelnut ice cream",
+      "favorite restaurants",
+      "crispy polenta",
+      "pork chop",
+      "gravy sauce",
+      "lobster cake",
+      "creme brule",
+      "steak frites"
+    ]
+  },
+  "Cabo Fish Taco": {
+    "City": "Charlotte",
+    "Name": "Cabo Fish Taco",
+    "Top": [
+      "fish tacos",
+      "cabo fish taco",
+      "corn salsa",
+      "bbq mahi tacos",
+      "shrimp tacos"
+    ],
+    "Worst": [
+      "cheapo margarita",
+      "decent fish tacos",
+      "tofu taco",
+      "absolute favorite restaurant",
+      "veggie fajitas"
+    ],
+    "ID": "n5eQnMnVVt3FfrFENYoU0g",
+    "Recent": [
+      "queso dip",
+      "fish taco",
+      "bbq mahi mahi",
+      "honey wasabi sauce",
+      "lime shrimp tacos",
+      "white cilantro sauce",
+      "salmon taco",
+      "cabo fish taco",
+      "fish tacos i",
+      "tuna taco"
+    ]
+  },
+  "Postino Arcadia": {
+    "City": "Phoenix",
+    "Name": "Postino Arcadia",
+    "Top": [
+      "goat cheese",
+      "tomato jam",
+      "wine list",
+      "wine selection",
+      "bruschetta board"
+    ],
+    "Worst": [
+      "brie sandwhich",
+      "cheese platters",
+      "drink specials",
+      "proscuitto fig marscarpone",
+      "salmon + capers"
+    ],
+    "ID": "SDwYQ6eSu1htn8vHWv128g",
+    "Recent": [
+      "goat cheese",
+      "sweet tomato jam",
+      "broccoli cheese soup",
+      "cherry tomatoes",
+      "white bean hummus",
+      "tomato jam",
+      "brie apple",
+      "tangy cheese",
+      "favorite places",
+      "great restaurant"
+    ]
+  },
+  "Gaucho Parrilla Argentina": {
+    "City": "Pittsburgh",
+    "Name": "Gaucho Parrilla Argentina",
+    "Top": [
+      "steak sandwich",
+      "chicken sandwich",
+      "carne sandwich",
+      "flank steak",
+      "steak sandwiches"
+    ],
+    "Worst": [
+      "special steak sauce",
+      "tasty chicken",
+      "tasty arugula",
+      "chicken empanada",
+      "fig drizzle"
+    ],
+    "ID": "rcCGdKxMPJk4lCzZZ1i_bA",
+    "Recent": [
+      "ribeye steak",
+      "steak sandwich",
+      "ciabatta bread",
+      "carne sandwich",
+      "hanger steak sandwich",
+      "steak burger",
+      "beef sandwich",
+      "meat empanadas",
+      "potatoes papas",
+      "chimichurri sauce"
+    ]
+  },
+  "Primanti Brothers": {
+    "City": "Pittsburgh",
+    "Name": "Primanti Brothers",
+    "Top": [
+      "french fries",
+      "cole slaw",
+      "cheese steak",
+      "roast beef",
+      "strip district"
+    ],
+    "Worst": [
+      "bread tastes",
+      "turkey provalone sandwich",
+      "sandwich filling choice",
+      "fresh italian bread",
+      "bologna sandwich"
+    ],
+    "ID": "Q4ULAiIE2qCA4RYplCTrUQ",
+    "Recent": [
+      "pastrami sandwich",
+      "cheese fries",
+      "french fries",
+      "favorite sandwich",
+      "pastrami sandwich i",
+      "beef patty taste",
+      "provolone cheese",
+      "turkey provalone sandwich",
+      "hot sauce",
+      "random greek dessert"
+    ]
+  },
+  "Soul Gastrolounge": {
+    "City": "Charlotte",
+    "Name": "Soul Gastrolounge",
+    "Top": [
+      "lamb lollipops",
+      "bone marrow",
+      "tuna tacos",
+      "sashimi tuna tacos",
+      "goat cheese"
+    ],
+    "Worst": [
+      "excellent bone marrow",
+      "ice cream scoop",
+      "drink specials",
+      "cucumber slice",
+      "garlic herb"
+    ],
+    "ID": "fTFgrxLjA07UdR-1PKfIng",
+    "Recent": [
+      "brussel sprouts",
+      "bone marrow",
+      "pistachio ice cream",
+      "goat cheese flatbread",
+      "lemon chicken skewer",
+      "favorite places",
+      "chicken skin",
+      "ice cream",
+      "sushi rolls",
+      "tempura shrimp"
+    ]
+  },
+  "Burgatory": {
+    "City": "Pittsburgh",
+    "Name": "Burgatory",
+    "Top": [
+      "own burger",
+      "sweet potato chips",
+      "veggie burger",
+      "caramel pretzel",
+      "bangkok steak fries"
+    ],
+    "Worst": [
+      "drink specials",
+      "sweet potatoes",
+      "great steak restaurant",
+      "jamaican jerk rub",
+      "bankok steak fries"
+    ],
+    "ID": "x8GTTMIAtUJ5EsIMnsOacQ",
+    "Recent": [
+      "sweet onion rub",
+      "bourbon bbq wings",
+      "appetizer fries",
+      "beef flavor",
+      "own burger",
+      "veggie burger i",
+      "truffle aioli",
+      "brioche bun",
+      "favorite burger",
+      "buffalo cheddar"
+    ]
+  },
+  "Bouchon Bistro": {
+    "City": "Las Vegas",
+    "Name": "Bouchon Bistro",
+    "Top": [
+      "steak frites",
+      "croque madame",
+      "foie gras",
+      "french onion soup",
+      "french fries"
+    ],
+    "Worst": [
+      "red cabbage",
+      "fava beans",
+      "nice spicy bacon",
+      "fries meal",
+      "pork delmonico chop"
+    ],
+    "ID": "tFU2Js_nbIZOrnKfYJYBBg",
+    "Recent": [
+      "truffle fries",
+      "sauce mornay",
+      "apple croissants",
+      "seedless berry jam",
+      "foie gras",
+      "croque madame",
+      "raspberry garnish",
+      "brussels sprouts",
+      "duck confit",
+      "swiss cheese"
+    ]
+  },
+  "Vincenzo's": {
+    "City": "Waterloo",
+    "Name": "Vincenzo's",
+    "Top": [
+      "artichoke caponata",
+      "salmon sandwich",
+      "tuna pasta salad",
+      "vegetable flavour",
+      "green pepper"
+    ],
+    "Worst": [
+      "vegetable flavour",
+      "green pepper",
+      "salmon roe",
+      "bakery section",
+      "sashimi grade salmon"
+    ],
+    "ID": "ej_Ovd4GuqnFv6d4i54Z7Q",
+    "Recent": [
+      "olive oil",
+      "brick butter cookie",
+      "homemade sashimi",
+      "specialty items",
+      "tasty desserts",
+      "salmon roe",
+      "gop buffalo mozzarella",
+      "feta cheese",
+      "balsamic vinegar",
+      "cold pasta salads"
+    ]
+  },
+  "Marigold Kitchen": {
+    "City": "Madison",
+    "Name": "Marigold Kitchen",
+    "Top": [
+      "breakfast sandwich",
+      "duck confit hash",
+      "marigold kitchen",
+      "blueberry pancakes",
+      "marigold potatoes"
+    ],
+    "Worst": [
+      "red cabbage",
+      "dijon mustard",
+      "favorite spots",
+      "zucchini omelette",
+      "mint espresso drink"
+    ],
+    "ID": "J3A5V0Hl07o_KQSI2hHf_g",
+    "Recent": [
+      "duck confit hash",
+      "breakfast sandwich",
+      "marigold kitchen",
+      "favorite places",
+      "pancakes punch",
+      "homemade american fries",
+      "artichoke omelet",
+      "breakfast potatoes",
+      "cream cheese",
+      "favorite brunch place"
+    ]
+  },
+  "Gallo Blanco": {
+    "City": "Phoenix",
+    "Name": "Gallo Blanco",
+    "Top": [
+      "gallo blanco",
+      "carne asada",
+      "carne asada tacos",
+      "fish tacos",
+      "carne asada burrito"
+    ],
+    "Worst": [
+      "red cabbage",
+      "good pale ale",
+      "good coffee",
+      "irish liver",
+      "thin slices"
+    ],
+    "ID": "-sC66z4SO3tR7nFCjfQwuQ",
+    "Recent": [
+      "ice tea",
+      "ice cream brownie",
+      "gallo blanco",
+      "carna asada taco",
+      "cochinita taco",
+      "mexican restaurant",
+      "brownie cake",
+      "ribeye sandwich",
+      "chicken taco",
+      "shrimp tacos"
+    ]
+  },
+  "Hofbrauhaus": {
+    "City": "Pittsburgh",
+    "Name": "Hofbrauhaus",
+    "Top": [
+      "potato pancakes",
+      "beer cheese",
+      "bier cheese",
+      "german potato salad",
+      "sauerkraut balls"
+    ],
+    "Worst": [
+      "order beer",
+      "pork loaf",
+      "chocolate cake",
+      "mediocre pork chops",
+      "fresh homemade pretzels"
+    ],
+    "ID": "rR_szXNwNQB-MgEoTElb8Q",
+    "Recent": [
+      "beer cheese dip",
+      "potato pancake",
+      "beer cheese",
+      "german potato salad",
+      "beer hall area",
+      "large pretzels",
+      "beer sampler",
+      "dark german beer",
+      "restaurant manager bartender",
+      "big beer"
+    ]
+  },
+  "FEZ": {
+    "City": "Phoenix",
+    "Name": "FEZ",
+    "Top": [
+      "sweet potato fries",
+      "fez burger",
+      "rosemary chicken sandwich",
+      "veggie burger",
+      "goat cheese"
+    ],
+    "Worst": [
+      "danish bleu cheese",
+      "tomato taza",
+      "chocolate cake",
+      "full meal",
+      "chocolate martinis"
+    ],
+    "ID": "EWMwV5V9BxNs_U6nNVMeqw",
+    "Recent": [
+      "mascarpone cheesecake",
+      "drink specials",
+      "succulent chicken chunks",
+      "veggie bean burger",
+      "rosemary garlic fries",
+      "fez burger",
+      "bleu cheese burger",
+      "saffron rice",
+      "lamb sliders",
+      "spicy fries"
+    ]
+  },
+  "Tornado Steak House": {
+    "City": "Madison",
+    "Name": "Tornado Steak House",
+    "Top": [
+      "french onion soup",
+      "hash browns",
+      "steak sandwich",
+      "shrimp cocktail",
+      "tornado steak house"
+    ],
+    "Worst": [
+      "fresh lime slice",
+      "venison tenderloin",
+      "superb filet mignon",
+      "cheese cake",
+      "veggie appetizer"
+    ],
+    "ID": "fEX1IcPNrhJAdwk4DgyVVw",
+    "Recent": [
+      "bread crumbs",
+      "french onion soup",
+      "squash soup",
+      "pork chop",
+      "cheese curds taste",
+      "veggie appetizer",
+      "steak sandwich",
+      "good steak",
+      "horseradish sauce",
+      "signature snack"
+    ]
+  },
+  "Wildcraft": {
+    "City": "Waterloo",
+    "Name": "Wildcraft",
+    "Top": [
+      "goat cheese",
+      "steak frites",
+      "tomato soup",
+      "butternut squash puree",
+      "oreo cheesecake lollipop"
+    ],
+    "Worst": [
+      "asiago crouton",
+      "celeriac puree",
+      "sage leaves",
+      "amazing mushroom salad",
+      "chili yogurt"
+    ],
+    "ID": "voJwYWjdoiJABZGVKLe_5g",
+    "Recent": [
+      "steak frites",
+      "oreo cheesecake lollipop",
+      "pork tenderloin",
+      "celeriac puree",
+      "chocolate cake",
+      "coconut gelato",
+      "mushroom soup",
+      "mushroom salad",
+      "amazing mushroom salad",
+      "mushroom barley"
+    ]
+  },
+  "Bobby Q": {
+    "City": "Phoenix",
+    "Name": "Bobby Q",
+    "Top": [
+      "corn bread",
+      "beef brisket",
+      "bbq sauce",
+      "prime rib",
+      "beef ribs"
+    ],
+    "Worst": [
+      "new favorite bbq",
+      "corn cob",
+      "chocolate brownie",
+      "barbecue place",
+      "artichoke dip app"
+    ],
+    "ID": "rZbHg4ACfN3iShdsT47WKQ",
+    "Recent": [
+      "beef brisket",
+      "tasty vegetarian meal",
+      "sour cream chives",
+      "bone brisket",
+      "potato salad",
+      "beef brisket dinner",
+      "meat eaters",
+      "bbq place",
+      "delicious beef brisket",
+      "corn cake"
+    ]
+  },
+  "Great Dane Pub & Brewing Co": {
+    "City": "Madison",
+    "Name": "Great Dane Pub & Brewing Co",
+    "Top": [
+      "cheese curds",
+      "crop circle wheat",
+      "scotch ale",
+      "fish tacos",
+      "beer bread"
+    ],
+    "Worst": [
+      "sweet potatoes",
+      "garlic mash",
+      "mozzarella cheese",
+      "bermuda onions",
+      "mushroom soup"
+    ],
+    "ID": "WhBxWYRj6rycigYqdXY9cA",
+    "Recent": [
+      "applewood bacon burger",
+      "cheese curds",
+      "ranch dip",
+      "eggs benedict",
+      "mash potatoes",
+      "fish tacos",
+      "excellent cheese curds",
+      "craft beers",
+      "average beers",
+      "means nachos"
+    ]
+  },
+  "Zada Jane's Corner Cafe": {
+    "City": "Charlotte",
+    "Name": "Zada Jane's Corner Cafe",
+    "Top": [
+      "bunny rancheros",
+      "sweet potato hash",
+      "sour cream",
+      "sweet potatoes",
+      "sweet potato hashbrowns"
+    ],
+    "Worst": [
+      "saddles omelet",
+      "homemade dressings delicious",
+      "cilantro crema",
+      "simple breakfast sandwich",
+      "brioche style bread"
+    ],
+    "ID": "4W2Ucl0d0_EK1HNYPIo88w",
+    "Recent": [
+      "breakfast burritos",
+      "breakfast sandwich",
+      "frozen crab cakes",
+      "bunny rancheros",
+      "tofu salad",
+      "local sausage",
+      "cake sandwich",
+      "champagne cake",
+      "chipotle chicken",
+      "pork breakfast items"
+    ]
+  },
+  "Earl of Sandwich": {
+    "City": "Las Vegas",
+    "Name": "Earl of Sandwich",
+    "Top": [
+      "roast beef",
+      "tomato soup",
+      "chipotle chicken avocado",
+      "hawaiian bbq",
+      "caribbean jerk chicken"
+    ],
+    "Worst": [
+      "hoagie sandwich",
+      "special steak sauce",
+      "meat meat",
+      "restaurant cookie",
+      "ordinary sandwich"
+    ],
+    "ID": "2e2e7WgqU1BnpxmQL5jbfw",
+    "Recent": [
+      "small tomato soup",
+      "bbq chicken sandwich",
+      "hot sandwiches",
+      "peanut butter cookie",
+      "chipotle chicken avocado",
+      "roast beef sandwich",
+      "corner bakery",
+      "pastrami reuben",
+      "chicken avocado",
+      "creamy tomato"
+    ]
+  },
+  "Dotty Dumpling's Dowry": {
+    "City": "Madison",
+    "Name": "Dotty Dumpling's Dowry",
+    "Top": [
+      "cheese curds",
+      "english garlic sauce",
+      "pot burger",
+      "garlic sauce",
+      "onion rings"
+    ],
+    "Worst": [
+      "sweet potatoes",
+      "black pepper corn",
+      "garlic dip",
+      "turkey burger",
+      "tasty burger"
+    ],
+    "ID": "EH7sT3dV-B365RETWCQhIA",
+    "Recent": [
+      "cheese curds",
+      "perfect burger",
+      "beer options",
+      "good cheese curds",
+      "garlic mayo",
+      "sour cream",
+      "favorite places",
+      "high quality meat",
+      "burgers max",
+      "good burgers"
+    ]
+  },
+  "The Bauer Kitchen": {
+    "City": "Waterloo",
+    "Name": "The Bauer Kitchen",
+    "Top": [
+      "duck confit",
+      "duck wings",
+      "eggs benedict",
+      "sweet potato fries",
+      "pork nachos"
+    ],
+    "Worst": [
+      "thai mussels",
+      "rolls buns",
+      "steak tartare",
+      "roast beef",
+      "salmon benedict"
+    ],
+    "ID": "-GR4Dvxhx6ddaDiUICOSFQ",
+    "Recent": [
+      "duck wings",
+      "french onion fondue",
+      "thai mussels",
+      "white chocolate brulee",
+      "chicken tacos",
+      "pear cheesecake",
+      "eggs benedict",
+      "banh mi",
+      "duck confit",
+      "roast beef"
+    ]
+  },
+  "Gordon Ramsay BurGR": {
+    "City": "Las Vegas",
+    "Name": "Gordon Ramsay BurGR",
+    "Top": [
+      "truffle fries",
+      "sweet potato fries",
+      "truffle parmesan fries",
+      "farm burger",
+      "onion rings"
+    ],
+    "Worst": [
+      "parmesean ranch dip",
+      "oreo milkshake =",
+      "euro chicken burger",
+      "duck meat",
+      "pork bacon"
+    ],
+    "ID": "aGbjLWzcrnEx2ZmMCFm3EA",
+    "Recent": [
+      "truffle parmesan fries",
+      "onion rings",
+      "fries + burger",
+      "bbq type sauce",
+      "toffee cookie",
+      "potato wedges",
+      "truffle fries",
+      "burger patty",
+      "asadero cheese",
+      "drinks burger"
+    ]
+  },
+  "Bacchanal Buffet": {
+    "City": "Las Vegas",
+    "Name": "Bacchanal Buffet",
+    "Top": [
+      "prime rib",
+      "crab legs",
+      "lamb chops",
+      "creme brulee",
+      "mochi ice cream"
+    ],
+    "Worst": [
+      "bit sweet",
+      "favorite french macarons",
+      "breakfast burritos",
+      "spicy cactus",
+      "dessert choices"
+    ],
+    "ID": "sIyHTizqAiGu12XMLX3N3g",
+    "Recent": [
+      "chocolate caramel apple",
+      "mochi ice cream",
+      "mango chicken sausage",
+      "truffle soup",
+      "old egg porridge",
+      "turkey ham",
+      "gratin potatoes",
+      "sushi rolls",
+      "favorite buffet",
+      "barbecue pork"
+    ]
+  },
+  "Mac's Speed Shop": {
+    "City": "Charlotte",
+    "Name": "Mac's Speed Shop",
+    "Top": [
+      "green bean casserole",
+      "beef brisket",
+      "pork sandwich",
+      "beer selection",
+      "collard greens"
+    ],
+    "Worst": [
+      "tasty apple",
+      "green bean casserol",
+      "bbq connoisseur",
+      "w bbq sauce",
+      "renowned pork barbecue"
+    ],
+    "ID": "gRx81xfSAoT-fNYIqBYolA",
+    "Recent": [
+      "green bean casserole",
+      "brisket tacos",
+      "drink specials",
+      "sweet corn",
+      "bbq ribs",
+      "pork sandwich",
+      "brisket sandwich",
+      "collard greens",
+      "vinegar style i",
+      "beer selection"
+    ]
+  },
+  "Am\u00e9lie's French Bakery": {
+    "City": "Charlotte",
+    "Name": "Am\u00e9lie's French Bakery",
+    "Top": [
+      "caramel brownie",
+      "caramel brownies",
+      "french bakery",
+      "chocolate croissant",
+      "fruit tarts"
+    ],
+    "Worst": [
+      "dijon mustard",
+      "ice latte",
+      "passion fruit",
+      "butter butter everywhere",
+      "chocolate brownie"
+    ],
+    "ID": "yPibH0T8M3EbM550S9LSHQ",
+    "Recent": [
+      "french bakery",
+      "creme brulee ||",
+      "good pastries",
+      "breakfast sandwich",
+      "chocolate cake",
+      "caramel brownie ||",
+      "fruit danish ||",
+      "caramel brownie",
+      "different breakfast sandwiches",
+      "pastry line"
+    ]
+  }
+}
